@@ -1,0 +1,22 @@
+{
+    "name": "Robit",
+    "version": "2.0.2",
+    "description": "Extension for BuildGenius Robit V2.0.2",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:super440/pxt-neopixel"
+        
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/Robit-strings.json",
+        "_locales/zh-tw/Robit-strings.json",
+        "_locales/fr/Robit-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
