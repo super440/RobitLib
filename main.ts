@@ -5,7 +5,7 @@ load dependency
 "Robit": "file:../pxt-Robit"
 */
 
-//% color="#006400" weight=20 icon="\uf1b9"
+//% color="#0000FF" weight=20 icon="\u1f697"
 namespace Robit {
 
     const PWM_ADD = 0x01
