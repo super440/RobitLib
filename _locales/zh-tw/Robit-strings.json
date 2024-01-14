@@ -1,13 +1,13 @@
 {
 
-  "Robit.Ultrasonic_Car|block": "超聲波返回（cm）",
-  "Robit.Ultrasonic_CarV2|block": "microbit|V2|超聲波返回（cm）",
-  "Robit.RGB_Car_Program|block": "車身七彩流水燈",
+  "Robit.Ultrasonic_Car|block": "超聲波返回值（組織：cm）",
+  "Robit.Ultrasonic_CarV2|block": "microbit|V2|超聲波返回值（組織：cm）",
+  "Robit.RGB_Car_Program|block": "小車RGB尾燈",
   "Robit.RGB_Car_Big|block": "小車RGB探照燈|選擇車燈顏色 %value",
   "Robit.RGB_Car_Big2|block": "小車RGB探照燈|紅色 %value1|綠色 %value2|藍色 %value3",
   "Robit.Music_Car|block": "小車音樂播放|%index",
   "Robit.Voice_Sensor|block": "聲音傳感器返回",
-  "Robit.Line_Sensor|block": "巡線傳感器|位置 %direct|檢測到 %value",
+  "Robit.Line_Sensor|block": "循迹傳感器|位置 %direct|檢測到 %value",
   "Robit.CarCtrl|block": "小車控制|%index",
   "Robit.CarCtrlSpeed|block": "小車控制|%index|速度 %speed",
   "Robit.CarCtrlSpeed2|block": "小車控制|%index|左電機速度 %speed1|右電機速度 %speed2",
